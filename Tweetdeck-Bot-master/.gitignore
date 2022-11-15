@@ -1,0 +1,5 @@
+chromedriver.exe
+*.txt
+!tweets.txt
+*.log
+__pycache__
